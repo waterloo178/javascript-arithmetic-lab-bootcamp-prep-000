@@ -36,5 +36,3 @@ var n = 9.999;
 function preserveDecimal (n) {
   return parseFloat (n);
 }
-
-function 
