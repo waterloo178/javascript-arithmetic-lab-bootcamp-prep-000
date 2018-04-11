@@ -27,5 +27,7 @@ function dec (a) {
 
 var n = 3.14;
 
-function 
+function makeInt (n) {
+  return parseInt(n, 10);
+}
 
