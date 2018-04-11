@@ -31,6 +31,8 @@ function makeInt (n) {
   return parseInt(n, 10);
 }
 
+var n = 9.999
+
 function preserveDecimal (n) {
   return parseFloat (n);
 }
