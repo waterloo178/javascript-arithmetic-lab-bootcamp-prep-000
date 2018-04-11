@@ -26,3 +26,6 @@ function dec (n) {
 }
 
 inc (311);
+
+dec (624);
+
