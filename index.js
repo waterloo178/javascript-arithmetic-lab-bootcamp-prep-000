@@ -15,17 +15,15 @@ function multiply (a, b) {
 function divide (a, b) {
   return a/b;
 }
-var n;
+var a;
 
-function inc (n) {
-  return n++;
+function inc (a) {
+  return a += 1;
 }
 
-function dec (n) {
-  return n--;
+function dec (a) {
+  return a -= 1;
 }
 
-inc (311);
 
-dec (624);
 
